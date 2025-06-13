@@ -1,8 +1,4 @@
-Here’s a complete and clean **`README.md`** for your Laravel + Flask AI Cancer Detection project:
-
 ---
-
-
 
 # 🧠 Cancer Detection System (Laravel + Flask + Deep Learning)
 
