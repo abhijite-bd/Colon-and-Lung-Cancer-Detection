@@ -2,28 +2,29 @@ Here’s a complete and clean **`README.md`** for your Laravel + Flask AI Cancer
 
 ---
 
-```markdown
+
+
 # 🧠 Cancer Detection System (Laravel + Flask + Deep Learning)
 
 This is a full-stack AI-powered cancer detection system. Users can upload histopathological images (e.g., lung or colon tissue) via a Laravel frontend. The images are then sent to a Python Flask backend, where a deep learning model (Keras `.h5`) performs classification and returns a confidence score.
 
 ## 📁 Project Structure
 
-```
+---
 
 project/
-├── laravel-app/             # Laravel Frontend (Blade + TailwindCSS)
-│   ├── routes/web.php
-│   ├── resources/views/
-│   ├── public/
+├── laravel-app/             # Laravel Frontend (Blade + TailwindCSS)  
+│   ├── routes/web.php  
+│   ├── resources/views/  
+│   ├── public/  
 │   └── .env
-├── ml\_api/                  # Flask Backend for ML predictions
-│   ├── app.py
-│   ├── model.h5             # Your trained deep learning model
+├── ml\_api/                  # Flask Backend for ML predictions  
+│   ├── app.py  
+│   ├── model.h5             # Your trained deep learning model  
 │   ├── utils.py             # Image preprocessing functions
 │   └── requirements.txt
 
-````
+---
 
 ---
 
@@ -145,9 +146,8 @@ You can download the report using the **“Download Report”** button.
 
 For feedback or questions:
 
-**Abhijite Barman**
-📧 \[[dbabhijite@gmail.com](mailto:dbabhijite@gmail.com)]
+**Abhijite Barman**  
+📧 \[[dbabhijite@gmail.com](mailto:dbabhijite@gmail.com)]  
 🔗 \[[LinkedI here if needed](https://www.linkedin.com/in/abhijite-deb-barman-4191a2209/)]
 
-```
-```
+---
