@@ -124,7 +124,6 @@
 
         <!-- Image and Results Container -->
         <div class="grid md:grid-cols-2 gap-8 items-center">
-
             <!-- Image Section -->
             <div class="space-y-4">
                 <h3 class="text-lg font-semibold text-gray-700 text-center">Analyzed Image</h3>
